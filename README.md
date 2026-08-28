@@ -89,7 +89,7 @@ After loading the hash, **Start new attack** was selected. John the Ripper proce
 Watch the recorded walkthrough of extracting the hash, loading `hash2.txt`(I was not able to record hash1.txt) into Johnny, running JTR, and recovering the password:
 
 > 🎬 **[Click here to watch Video Demonstration 1 on YouTube](https://youtu.be/SInmb9726s4)**  
-> *Demonstration of PDF hash extraction, loading hash1.txt into Johnny, and recovering the target password.*
+> *Demonstration of PDF hash extraction, loading hash2.txt into Johnny(since I am not able to record the hash1.txt), and recovering the target password.*
 
 ---
 
